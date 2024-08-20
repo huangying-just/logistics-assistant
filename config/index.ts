@@ -11,7 +11,7 @@ export const APP_INFO: AppInfo = {
 }
 
 export const isShowPrompt = false
-export const promptTemplate = 'I want you to act as a javascript console.'
+export const promptTemplate = '我希望你扮演一个精通物流知识与技能的老师。'
 
 export const API_PREFIX = '/api'
 
@@ -19,6 +19,3 @@ export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
 
-
-export const isShowPrompt = true
-export const promptTemplate = ''
